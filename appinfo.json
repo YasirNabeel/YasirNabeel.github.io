@@ -1,0 +1,50 @@
+{
+  "uniqueLinkShared" : "https://yasirnabeel.github.io/YasirNabell.github.io/appinfo.json",
+  "latestVersion" : {
+    "build" : "1",
+    "buildtype" : "development",
+    "manifestLink" : "https://yasirnabeel.github.io/YasirNabell.github.io/manifest.plist",
+    "supporteddevice" : "iPhone and iPad",
+    "minosversion" : "9.0",
+    "ipafilesize" : 23,
+    "mobileprovision" : {
+      "devicesudid" : [
+        "383fedeef6.....be5ceb6a91"
+      ],
+      "uuid" : "213b0ae1-7c37-4335-88b9-7261b92ce993",
+      "teamname" : "IQ ONLINE CO.",
+      "expirationdata" : 1655661979,
+      "createdate" : 1624125979,
+      "teamid" : "KM6VKSL955"
+    },
+    "identifier" : "com.iq.testIpa",
+    "version" : "1.0.0",
+    "timestamp" : 1624130219.1071429,
+    "name" : "test_ipa"
+  },
+  "versions" : [
+    {
+      "build" : "1",
+      "buildtype" : "development",
+      "manifestLink" : "https://yasirnabeel.github.io/YasirNabell.github.io/manifest.plist",
+      "supporteddevice" : "iPhone and iPad",
+      "minosversion" : "9.0",
+      "ipafilesize" : 23,
+      "mobileprovision" : {
+        "devicesudid" : [
+          "383fedeef6.....be5ceb6a91"
+        ],
+        "uuid" : "213b0ae1-7c37-4335-88b9-7261b92ce993",
+        "teamname" : "IQ ONLINE CO.",
+        "expirationdata" : 1655661979,
+        "createdate" : 1624125979,
+        "teamid" : "KM6VKSL955"
+      },
+      "identifier" : "com.iq.testIpa",
+      "version" : "1.0.0",
+      "timestamp" : 1624130219.1071429,
+      "name" : "test_ipa"
+    }
+  ],
+  "uniqueLinkShort" : "https://yasirnabeel.github.io/YasirNabell.github.io/DKg3BgoUdhb"
+}
