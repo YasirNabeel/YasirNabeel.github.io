@@ -24213,7 +24213,7 @@ $1:function(a){J.uU(this.a.$0())
 J.aoc(self.window.CanvasKitInit({locateFile:P.mS(new H.an5())}),P.mS(new H.an6(this.b)))},
 $S:5}
 H.an5.prototype={
-$2:function(a,b){return C.c.R("/",a)},
+$2:function(a,b){return C.c.R("https://unpkg.com/canvaskit-wasm@0.25.1/bin/",a)},
 $C:"$2",
 $R:2,
 $S:317}
@@ -78855,7 +78855,7 @@ s($,"aQu","aAk",function(){var p=8204,o=2404,n=2405,m=8205,l=8377,k=9676,j=t.Cz
 return H.a([$.Xn(),$.Xo(),$.Xl(),$.Xm(),H.cZ("Noto Naskh Arabic UI",H.a([H.P(1536,1791),H.P(p,8206),H.P(8208,8209),H.P(8271,8271),H.P(11841,11841),H.P(64336,65023),H.P(65132,65276)],j)),H.cZ("Noto Sans Armenian",H.a([H.P(1328,1424),H.P(64275,64279)],j)),H.cZ("Noto Sans Bengali UI",H.a([H.P(o,n),H.P(2433,2555),H.P(p,m),H.P(l,l),H.P(k,k)],j)),H.cZ("Noto Sans Myanmar UI",H.a([H.P(4096,4255),H.P(p,m),H.P(k,k)],j)),H.cZ("Noto Sans Egyptian Hieroglyphs",H.a([H.P(77824,78894)],j)),H.cZ("Noto Sans Ethiopic",H.a([H.P(4608,5017),H.P(11648,11742),H.P(43777,43822)],j)),H.cZ("Noto Sans Georgian",H.a([H.P(1417,1417),H.P(4256,4351),H.P(11520,11567)],j)),H.cZ("Noto Sans Gujarati UI",H.a([H.P(o,n),H.P(2688,2815),H.P(p,m),H.P(l,l),H.P(k,k),H.P(43056,43065)],j)),H.cZ("Noto Sans Gurmukhi UI",H.a([H.P(o,n),H.P(2561,2677),H.P(p,m),H.P(l,l),H.P(k,k),H.P(9772,9772),H.P(43056,43065)],j)),H.cZ("Noto Sans Hebrew",H.a([H.P(1424,1535),H.P(8362,8362),H.P(k,k),H.P(64285,64335)],j)),H.cZ("Noto Sans Devanagari UI",H.a([H.P(2304,2431),H.P(7376,7414),H.P(7416,7417),H.P(p,m),H.P(8360,8360),H.P(l,l),H.P(k,k),H.P(43056,43065),H.P(43232,43259)],j)),H.cZ("Noto Sans Kannada UI",H.a([H.P(o,n),H.P(3202,3314),H.P(p,m),H.P(l,l),H.P(k,k)],j)),H.cZ("Noto Sans Khmer UI",H.a([H.P(6016,6143),H.P(p,p),H.P(k,k)],j)),H.cZ("Noto Sans KR",H.a([H.P(12593,12686),H.P(12800,12828),H.P(12896,12923),H.P(44032,55215)],j)),H.cZ("Noto Sans Lao UI",H.a([H.P(3713,3807),H.P(k,k)],j)),H.cZ("Noto Sans Malayalam UI",H.a([H.P(775,775),H.P(803,803),H.P(o,n),H.P(3330,3455),H.P(p,m),H.P(l,l),H.P(k,k)],j)),H.cZ("Noto Sans Sinhala",H.a([H.P(o,n),H.P(3458,3572),H.P(p,m),H.P(k,k)],j)),H.cZ("Noto Sans Tamil UI",H.a([H.P(o,n),H.P(2946,3066),H.P(p,m),H.P(l,l),H.P(k,k)],j)),H.cZ("Noto Sans Telugu UI",H.a([H.P(2385,2386),H.P(o,n),H.P(3072,3199),H.P(7386,7386),H.P(p,m),H.P(k,k)],j)),H.cZ("Noto Sans Thai UI",H.a([H.P(3585,3675),H.P(p,m),H.P(k,k)],j)),H.cZ("Noto Sans",H.a([H.P(0,255),H.P(305,305),H.P(338,339),H.P(699,700),H.P(710,710),H.P(730,730),H.P(732,732),H.P(8192,8303),H.P(8308,8308),H.P(8364,8364),H.P(8482,8482),H.P(8593,8593),H.P(8595,8595),H.P(8722,8722),H.P(8725,8725),H.P(65279,65279),H.P(65533,65533),H.P(1024,1119),H.P(1168,1169),H.P(1200,1201),H.P(8470,8470),H.P(1120,1327),H.P(7296,7304),H.P(8372,8372),H.P(11744,11775),H.P(42560,42655),H.P(65070,65071),H.P(880,1023),H.P(7936,8191),H.P(256,591),H.P(601,601),H.P(7680,7935),H.P(8224,8224),H.P(8352,8363),H.P(8365,8399),H.P(8467,8467),H.P(11360,11391),H.P(42784,43007),H.P(258,259),H.P(272,273),H.P(296,297),H.P(360,361),H.P(416,417),H.P(431,432),H.P(7840,7929),H.P(8363,8363)],j))],t.Qg)})
 s($,"aRq","pP",function(){var p=t.V0
 return new H.HL(new H.a5X(),P.ba(p),P.x(t.N,p))})
-r($,"aR2","aAE",function(){return"/canvaskit.js"})
+r($,"aR2","aAE",function(){return"https://unpkg.com/canvaskit-wasm@0.25.1/bin/canvaskit.js"})
 r($,"aOX","Xh",function(){return new H.NF(1024,new P.wd(H.a9("wd<e7<H>>")),P.x(H.a9("e7<H>"),H.a9("fd<e7<H>>")))})
 r($,"aNW","ayY",function(){return new self.window.flutterCanvasKit.Paint()})
 r($,"aNV","ayX",function(){var p=new self.window.flutterCanvasKit.Paint()
