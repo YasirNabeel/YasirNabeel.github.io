@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.iqonline.my",
+               "sha256_cert_fingerprints": ["1F:58:BA:39:E9:32:7B:75:84:E7:B0:EC:7B:42:D3:2C:E0:D7:0B:6E:FC:78:9E:3B:8B:46:2D:8E:15:E9:0D:28"] }
+}]
